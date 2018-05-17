@@ -1,0 +1,9 @@
+# Node
+node_modules/
+
+# Project
+dist/
+
+# Sass
+.sass-cache/
+*.css.map
